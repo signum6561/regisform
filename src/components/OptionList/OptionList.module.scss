@@ -1,0 +1,20 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  row-gap: 5px;
+}
+
+.title {
+  font-weight: 600;
+}
+
+.options {
+  display: flex;
+  column-gap: 10px;
+}
+
+.checkbox {
+  input {
+    margin-right: 5px;
+  }
+}

@@ -1,9 +1,9 @@
-import Form from './containers/FormContainer';
+import InfoPage from './containers/InfoPage';
 
 const App = () => {
   return (
     <div>
-      <Form />
+      <InfoPage />
     </div>
   );
 };
